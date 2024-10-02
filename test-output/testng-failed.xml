@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="1" name="Chrome(failed)" parallel="tests">
+    <parameter name="port" value="6443"/>
+    <parameter name="configfile" value="properties\chrome\config.properties"/>
+    <classes>
+      <class name="test.script.Sample">
+        <methods>
+          <include name="tearDown"/>
+          <include name="InitialTestSetupClass"/>
+          <include name="startApplication"/>
+          <include name="processTestContext"/>
+          <include name="homePageDisplayed"/>
+          <include name="configureSuite"/>
+          <include name="killAppiumServer"/>
+        </methods>
+      </class> <!-- test.script.Sample -->
+    </classes>
+  </test> <!-- Chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

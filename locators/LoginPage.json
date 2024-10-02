@@ -1,0 +1,65 @@
+{
+	"usernametxtbox":{
+	
+    	"AndroidChrome":{
+    		"id": "jp.co.sharp.bs.smartoffice.synappxgomobile:id/share_title"
+    	},
+    	"iOS":{
+    		"iosclasschain": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"chrome":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"edge":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"safari":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"firefox":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	}
+	},
+	"passwordtxtbx":{
+	
+    	"AndroidChrome":{
+    		"id": "jp.co.sharp.bs.smartoffice.synappxgomobile:id/share_title"
+    	},
+    	"iOS":{
+    		"iosclasschain": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"chrome":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"edge":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"safari":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"firefox":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	}
+	},
+	"Loginbtn":{
+	
+    	"AndroidChrome":{
+    		"id": "jp.co.sharp.bs.smartoffice.synappxgomobile:id/share_title"
+    	},
+    	"iOS":{
+    		"iosclasschain": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"chrome":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"edge":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"safari":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	},
+    	"firefox":{
+    	"xpath": "**/XCUIElementTypeNavigationBar/XCUIElementTypeOther"
+    	}
+	}
+} 
